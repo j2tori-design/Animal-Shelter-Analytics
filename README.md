@@ -13,11 +13,9 @@
 
 - Github desktop 있으시면 사용하시고 없으시다면 설치 부탁드립니다
 - 각자 본인 컴퓨터에서 branch 생성해서 본인 코드 저장하셔야 합니다
-- main branch 나중에 코드 합칠때 사용해야 하므로 건들지 않아주셨음 좋겠습니다
-
-
+- main branch는 나중에 코드 합칠때 사용해야 하므로 건들지 않아주셨음 좋겠습니다
 
 ### 만약 Github desktop 사용방법을 모르신다면?
-- 여기 위쪽에 있는 current branch 클릭 후 본인 branch 생성하면 됩니다
+- 여기 위쪽에 있는 current branch 클릭 후 본인 branch 생성하고 publish branch 까지 누르시면 됩니다
     - ex) Model-RandomForest, Model-LightGBM
 <img width="1892" height="1320" alt="image" src="https://github.com/user-attachments/assets/b3212564-5cc0-41da-8afc-083ce309b362" />
